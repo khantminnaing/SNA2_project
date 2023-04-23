@@ -13,3 +13,5 @@ This project use the dataset of a network of books about US politics published a
 
 ### Appendix
 This project is for SNA2 : Social Network Analysis in Digital Age at AY22-23 Sciences Po Paris.
+<p>
+<img width="200" alt="Logo_SP" src="https://user-images.githubusercontent.com/87215545/233868820-2139d220-2f73-4213-a371-bc19b97c1f88.png">
