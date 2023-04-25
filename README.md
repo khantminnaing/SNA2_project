@@ -11,6 +11,9 @@ This project use the dataset of a network of books about US politics published a
 
 ### Methodology
 <b>Degree Centrality</b> : measures the number of connections (or edges) each node (or book) has. Books with high degree centrality would be those that were frequently co-purchased with many other books.
+<br>
+<b>Betweenness Centrality</b> : measures the extent to which a node lies on the shortest paths between other nodes in the network. 
+Books with high betweenness centrality would be frequently co-purchased with other books that were not necessarily directly connected to each other.
 
 
 ### Results
