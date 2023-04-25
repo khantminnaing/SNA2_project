@@ -9,6 +9,10 @@ This project use the dataset of a network of books about US politics published a
 
 ![graph (1)](https://user-images.githubusercontent.com/87215545/233859786-a20a0985-892f-440e-9466-779c79e8d91e.png)
 
+### Methodology
+<b>Degree Centrality</b> : measures the number of connections (or edges) each node (or book) has. Books with high degree centrality would be those that were frequently co-purchased with many other books.
+
+
 ### Results
 ![graph (3)](https://user-images.githubusercontent.com/87215545/233957903-eee5180d-dce2-4310-a401-a907b83df057.png)
 
