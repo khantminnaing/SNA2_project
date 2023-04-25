@@ -7,7 +7,7 @@ This project investigates about the state of political bi-partisanship in light 
 ## Dataset 
 This project use the dataset of a network of books about US politics published around the time of the 2004 presidential election and sold by the online bookseller Amazon.com. Edges between books represent frequent copurchasing of books by the same buyers. The network was compiled by V. Krebs and is unpublished, but can found on Krebs' web site (http://www.orgnet.com/).
 
-<img width="500" alt="Network of Political Books" src="https://user-images.githubusercontent.com/87215545/234358296-d2ef7dfc-34c9-487d-a1f9-2cdbd741d599.png">
+<img width="1500" alt="Network of Political Books" src="https://user-images.githubusercontent.com/87215545/234359208-8eff5668-bcc5-43bd-9412-ba28a8c37575.png">
 
 
 <ul>
