@@ -1,7 +1,6 @@
 # Social Network Analysis Project
 
 ## Introduction 
-Understanding which nodes are the most central to the network could also give an indication of how ideas and opinions are bridged
 
 Given the extent of political polarisation in the US, it is important to understand how receptive people are to ideas from the other side of the political spectrum. This implies an important research area about the state of political bi-partisanship in the US. 
 
@@ -14,8 +13,8 @@ This project use the dataset of a network of books about US politics published a
 
 
 <ul>
-  <li>Each node represents a book, categorized according to political orientation : Conservative (c), Liberal (l) or Neutral (n)</li>
-  <li>Each edge represents frequent co-purchasing of books by the same buyers</li>
+  <li>Each node represents a book, categorized according to political orientation : Conservative (c), Liberal (l) or Neutral (n). The assignment of these political orientations was done by Mark Newman on the basis of his reading of the descriptions and associated comments on each book’s Amazon page.</li>
+  <li>Each edge represents frequent co-purchasing of books by the same buyers. In essence, these are the books that are suggested by Amazon with the feature that says: “customers who bought this book also bought...".</li>
 </ul>
 <b>Key statistics</b>
 <ul>
@@ -25,7 +24,6 @@ This project use the dataset of a network of books about US politics published a
   <li>Clustering coefficient = 0.35</li>
   <li>Average degree = 8.4</li>
 </ul>
-
 
 
 
