@@ -1,9 +1,11 @@
 # Social Network Analysis Project
 
 ## Introduction 
-This project investigates about the state of political bi-partisanship in light of the 2006 United States elections and analyse the purchasing patterns of people to political books the other side of the spectrum. Understanding which nodes are the most central to the network could also give an indication of how ideas and opinions are bridged
+Understanding which nodes are the most central to the network could also give an indication of how ideas and opinions are bridged
 
-Given the extent of political polarisation in the US, it is important to understand how receptive people are to ideas from the other side of the political spectrum. For our project, we therefore decided to investigates about the state of political bi-partisanship in the US. Specifically, we chose to use a dataset which contains a network of political books published around the time of the 2004 US presidential election, as the frequency with which political books are co-purchased might be indicative of whether people seek out opposing opinions or prefer to have their own views reinforced. Moreover, understanding which nodes are the most central to the network could also give an indication of how ideas and opinions are bridged. With this social network analysis, then, we hope to provide an insight into the level of partisanship and open-mindedness in the US, at least in 2004.
+Given the extent of political polarisation in the US, it is important to understand how receptive people are to ideas from the other side of the political spectrum. This implies an important research area about the state of political bi-partisanship in the US. 
+
+This project investigates about the state of political bi-partisanship in light of the 2004 United States elections and analyse the purchasing patterns of people to political books the other side of the spectrum. We argue that the co-purchasing patterns might be indicative of whether people seek out opposing opinions or prefer to have their own views reinforced. Moreover, understanding how ideas and opinions are bridged across the political spectrum is of great interest. By employing a social-network-based research, we hope to provide an insight into the level of partisanship and open-mindedness in the US, at least in 2004.
 
 ## Dataset 
 This project use the dataset of a network of books about US politics published around the time of the 2004 presidential election and sold by the online bookseller Amazon.com. Edges between books represent frequent copurchasing of books by the same buyers. The network was compiled by V. Krebs and is unpublished, but can found on Krebs' web site (http://www.orgnet.com/).
