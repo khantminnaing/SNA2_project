@@ -1,3 +1,5 @@
+![Untitled design (32)](https://user-images.githubusercontent.com/87215545/234714585-bb1f1baf-b242-4ad0-b4fa-4667aae5fc1f.png)
+
 # Social Network Analysis Project
 
 ## Introduction 
@@ -15,11 +17,8 @@ This project use the dataset of a network of books about US politics published a
   <li> With respect to the size of the dataset, there are 105 nodes, with 441 edges between them, yielding an average degree of 8.4 per node, which means that it is of sufficient size to be analysed. The diameter, which is the number of nodes on the longest of the shortest paths between any two nodes, is 7, which gives an indication of the inter-connectedness of the data. The clustering coefficient of 0.35 suggests that there is sufficient clustering for our analysis to be able to discern distinct communities of co-purchased books, to enable useful insights to be drawn.</li>
 </ul>
 <br>
-<img width="1500" alt="Network of Political Books" src="https://user-images.githubusercontent.com/87215545/234713887-21d26a88-743e-4c7b-9a88-f0e0cd8fd999.png">
-
-
+<img width="1500" alt="Network of Political Books" src="https://user-images.githubusercontent.com/87215545/234359208-8eff5668-bcc5-43bd-9412-ba28a8c37575.png">
 <b>Summary of Key statistics</b>
-<br>
 <ul>
   <li>Number of nodes = 105</li>
   <li>Number of edges = 441</li>
