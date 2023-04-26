@@ -9,15 +9,13 @@ This project investigates about the state of political bi-partisanship in light 
 ## Dataset 
 This project use the dataset of a network of books about US politics published around the time of the 2004 presidential election and sold by the online bookseller Amazon.com. Edges between books represent frequent copurchasing of books by the same buyers. The network was compiled by V. Krebs and is unpublished, but can found on Krebs' web site (http://www.orgnet.com/).
 
-<img width="1500" alt="Network of Political Books" src="https://user-images.githubusercontent.com/87215545/234359208-8eff5668-bcc5-43bd-9412-ba28a8c37575.png">
-
-
 <ul>
   <li>Each node represents a book, categorized according to political orientation : Conservative (c), Liberal (l) or Neutral (n). The assignment of these political orientations was done by Mark Newman on the basis of his reading of the descriptions and associated comments on each book’s Amazon page.</li>
   <li>Each edge represents frequent co-purchasing of books by the same buyers. In essence, these are the books that are suggested by Amazon with the feature that says: “customers who bought this book also bought...".</li>
   <li> Each node in the network represents a book, categorized according to its political orientation, namely: Conservative (c), Liberal (l) or Neutral (n). The assignment of these political orientations was done by Mark Newman on the basis of his reading of the descriptions and associated comments on each book’s Amazon page. The edges between books represent frequent co-purchasing of books by the same buyers. In essence, these are the books that are suggested by Amazon with the feature that says: “customers who bought this book also bought...” With respect to the size of the dataset, there are 105 nodes, with 441 edges between them, yielding an average degree of 8.4 per node, which means that it is of sufficient size to be analysed. The diameter, which is the number of nodes on the longest of the shortest paths between any two nodes, is 7, which gives an indication of the inter-connectedness of the data. The clustering coefficient of 0.35 suggests that there is sufficient clustering for our analysis to be able to discern distinct communities of co-purchased books, to enable useful insights to be drawn.</li>
 </ul>
 <br>
+<img width="1500" alt="Network of Political Books" src="https://user-images.githubusercontent.com/87215545/234359208-8eff5668-bcc5-43bd-9412-ba28a8c37575.png">
 <b>Summary of Key statistics</b>
 <ul>
   <li>Number of nodes = 105</li>
