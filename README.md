@@ -45,6 +45,11 @@ Books with high betweenness centrality would be frequently co-purchased with oth
 ## Results
 ![graph (3)](https://user-images.githubusercontent.com/87215545/233957903-eee5180d-dce2-4310-a401-a907b83df057.png)
 
+##Limitations
+
+In terms of limitations, there were three limitations we ran into with our social network and data. Firstly, the number of books (which is also the number of nodes), 105, may not be enough to have a comprehensive conclusion of what the results represent/mean in a larger sense and cannot generalize our findings onto the greater U.S. population. Secondly, political orientation, the idea behind this was that the type of book an individual bought may not be representative of their political orientation/beliefs. To explain, there are a multitude of reasons why an individual would purchase a liberal book, for example, (school required readings, work, research, etc.) and they may not be liberal at all. This is why the research results may not be accurate enough to describe each buyer as liberal, conservative or neutral. Finally, population, because the data was collected on political books that were purchased on Amazon’s website, that means that the population of purchasers had to be Amazon members. Because of this reason, we cannot assume that Amazon users are representative of the whole population, therefore we cannot generalize and/or reflect these results onto a larger population since not all Americans are Amazon members. 
+
+
 ### Libraries Used
 <img width="771" alt="Screenshot 2023-04-24 at 12 09 18 AM" src="https://user-images.githubusercontent.com/87215545/233868771-83b6ebef-4933-4667-81bd-c4e923497fb5.png">
 
