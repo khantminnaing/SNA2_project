@@ -48,7 +48,12 @@ Books with high betweenness centrality would be frequently co-purchased with oth
 
 
 ## Results
+
+The graph below is a reorganization of the the nodes and edges depending on the categorization of each book. At a first glance, there appears to be little connections between conservative books, marked by the red circles, and liberal books, marked by the green circle. 
+
 ![graph (3)](https://user-images.githubusercontent.com/87215545/233957903-eee5180d-dce2-4310-a401-a907b83df057.png)
+
+
 
 ## Limitations
 
