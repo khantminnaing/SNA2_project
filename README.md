@@ -56,16 +56,14 @@ The graph below is a reorganization of the the nodes and edges depending on the 
 ### Betweenness Centrality
 
 This measure shows which nodes are ‘bridges’ between nodes in a network. At first glance, it appears that conservative books mainly act as bridges, however, when taking into account the total number of each book category, it’s easy to see that neutral books appear to drive the flow between liberal and conservative books. In fact, 5 of the 13 neutral books appear in 20 nodes with the highest betweenness centrality. It thus initially appears to be little simultaneous purchases of conservative and liberal books occurring together, which customers opting for purchases of either 2 books of the same category, or with 1 neutral book. 
+![Untitled design (34)](https://user-images.githubusercontent.com/87215545/235372668-4351f2aa-d407-450c-b531-5ad9b9f92e34.png)
+
 
 ### Community Detection
 
 An analysis of the different communities within the network yields similar results. Using both the modularity maximisation and Louvain community detection algorithms, it appears that there exists 4 separate communities. 2 communities are dominated by either conservative or liberal books purchases and contain most of the nodes of the network. By looking at these communities, there appears to be little to no purchases of both types simultaneously. The other two communities contain far less conservative and liberal nodes, but almost half of the neutral nodes. These communities represent both politically-neutral customers and those willing to read the literature of the other side of the isle. 
-![newplot (1)](https://user-images.githubusercontent.com/87215545/235372481-a8a48866-2f6f-41bc-b12b-a0dc87158073.png)
 
-Most individuals appear unwilling to expose themselves to literature from different political views than their own
-Neutral books appear to be the only common readings between conservatives and liberals
-There are small communities where different views coincide, but these appear dominated by politically neutral customers
-
+![Untitled design (33)](https://user-images.githubusercontent.com/87215545/235372671-2f8a8ede-e9ed-498d-a0d0-1affb283f4ea.png)
 
 ## Limitations
 
