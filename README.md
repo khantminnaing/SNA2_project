@@ -39,6 +39,11 @@ Books with high betweenness centrality would be frequently co-purchased with oth
 <br>
 <br>
 <b>Community Detection</b> : involves identifying groups of nodes that are more tightly connected to each other than to the rest of the network. Communities could represent clusters of books frequently co-purchased together, perhaps corresponding to different political ideologies or topics. 
+<ul>
+  <li> <b>Modularity Maximisation (Newman Algorithm) </b> : Find a partition of the network by iteratively removing the edges of the graph, based on the edge betweenness centrality value, until maximum modularity is achieved.</li>
+  <li><b>Louvain Algorithm (Hierarchical) </b> : A hierarchical clustering algorithm that optimizes modularity in a bottom-up manner. Iteratively merges nodes into communities</li>
+</ul>
+
 
 
 
